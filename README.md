@@ -1,4 +1,5 @@
-![YouTube Thumbnail for Distribute Aid Livestream with photo of Taylor, Jenn Junod, and Ramón Huidobro](https://user-images.githubusercontent.com/77285384/213926289-361a98fd-01b0-45a9-8861-33a982ad9680.png)
+![YouTube Thumbnail for Distribute Aid & Teach Jenn Tech OSS Thursday Livestream with photo of Taylor, Ramón Huidobro, and Jenn Junod](https://user-images.githubusercontent.com/77285384/214411892-fc9a9eb6-32b4-43c7-8e56-3e6bfa4d36e4.png)
+
 
 # Distribute Aid
 
