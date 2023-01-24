@@ -6,6 +6,6 @@
 
 About DA and goal of stream
 
-- Useful Links [Distribute Aid Site](https://distributeaid.org/) | [Distribute Aid GitHub](https://github.com/orgs/distributeaid/dashboard)
+- Useful Links [Distribute Aid Site](https://distributeaid.org/) | [Distribute Aid GitHub](https://github.com/orgs/distributeaid/dashboard) | [Donate to Distribute Aid](https://distributeaid.org/donate/)
 - Connect with [Taylor](https://twitter.com/borderless_dev) & [Ramón](https://twitter.com/hola_soy_milk) 
 - Ways to watch [Twitch](https://www.twitch.tv/jennjunod) | [YouTube](https://www.youtube.com/channel/UCOYqYy7ebj5j63TbdGB-Lcg)
