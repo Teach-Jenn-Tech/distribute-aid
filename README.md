@@ -3,7 +3,7 @@
 
 # OSS Thursdays with Distribute Aid and Teach Jenn Tech
 
-✨Hello beaufitul human!✨
+### ✨Hello beaufitul human!✨
 
 **Distribute Aid** powers the world's largest mutual aid supply-chain. Last year we
 organized 75+ aid shipments that helped hundreds of grassroots organizations
@@ -25,3 +25,5 @@ community, inviting audience participation and guest appearances on the stream.
 - Useful Links [Distribute Aid Site](https://distributeaid.org/) | [Distribute Aid GitHub](https://github.com/orgs/distributeaid/dashboard) | [Donate to Distribute Aid](https://distributeaid.org/donate/)
 - Connect with [Taylor](https://twitter.com/borderless_dev) & [Ramón](https://twitter.com/hola_soy_milk) 
 - Ways to watch [Twitch](https://www.twitch.tv/jennjunod) | [YouTube](https://www.youtube.com/channel/UCOYqYy7ebj5j63TbdGB-Lcg)
+
+### Thank you to Distribute Aid Sponsor [Codesee](https://www.codesee.io/)
